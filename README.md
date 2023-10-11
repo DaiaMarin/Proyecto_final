@@ -1,2 +1,3 @@
 # Proyecto_final
-https://docs.google.com/presentation/d/1UsVPwvIAj3RsW1-DiTv5AljnrRaN-LdMMdhikqUhDt4/edit?usp=sharing
+[https://colab.research.google.com/drive/1FKxzEh-wX0hQTSAhA__F14s2-6PjwXLo?usp=sharing](https://colab.research.google.com/drive/1FKxzEh-wX0hQTSAhA__F14s2-6PjwXLo)
+
