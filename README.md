@@ -15,10 +15,11 @@ DESCRIPCION:
 Una entidad bancaria contrata una empresa de marketing encargada de contactar telefónicamente a posibles clientes para determinar si están interesados o no en adquirir un certificado de depósito a término con el banco.
 
 DATOS UTILIZADOS:
-Dataset banco
-Python 
-Pandas
+Dataset banco,
+Python,
+Pandas,
 Colab
+y power bi
 
 
 
