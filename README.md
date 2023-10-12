@@ -34,7 +34,7 @@ El trabajo en equipo y la colaboración constante con otros estudiantes me han a
 
 Puedes acceder a mi notebook de Google Colab haciendo clic en el siguiente enlace:
 
-[Google Colab Notebook]([enlace-a-tu-notebook-de-google-colab](https://colab.research.google.com/drive/1FKxzEh-wX0hQTSAhA__F14s2-6PjwXLo?usp=sharing)https://colab.research.google.com/drive/1FKxzEh-wX0hQTSAhA__F14s2-6PjwXLo?usp=sharing)
+Limpieza de datos]([enlace-a-tu-notebook-de-google-colab](https://colab.research.google.com/drive/1FKxzEh-wX0hQTSAhA__F14s2-6PjwXLo?usp=sharing)
 
 
 
