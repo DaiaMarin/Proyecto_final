@@ -18,7 +18,7 @@ DATOS UTILIZADOS:
 Dataset banco
 Python 
 Pandas
-Colaab
+Colab
 
 
 ## Acceso al Google Colab Notebook
