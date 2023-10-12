@@ -20,7 +20,7 @@ Python
 Pandas
 Colaab
 
-QUERIS Y SCRIPTS:
+
 ## Acceso al Google Colab Notebook
 
 Puedes acceder a mi notebook de Google Colab haciendo clic en el siguiente enlace:
