@@ -20,14 +20,7 @@ Python
 Pandas
 Colab
 
-APRENDIZAJES OBTENIDOS:
-:
 
-Ha sido una experiencia de aprendizaje intensiva y transformadora. A lo largo de este programa, he desarrollado habilidades esenciales para la recopilación, limpieza y análisis de datos. Aprendí a utilizar herramientas como Python, Pandas y NumPy para manipular datos, así como bibliotecas de aprendizaje.
-
-Además, he adquirido una comprensión profunda de estadísticas y técnicas de visualización de datos, lo que me permite comunicar hallazgos de manera efectiva. El enfoque en proyectos prácticos me permitió aplicar estos conocimientos en situaciones del mundo real y construir un portafolio sólido.
-
-El trabajo en equipo y la colaboración constante con otros estudiantes me han ayudado a mejorar mis habilidades de resolución de problemas y a apreciar la diversidad de enfoques en la ciencia de datos. Este bootcamp ha sido un trampolín para mi tecnica, proporcionándome las herramientas y la confianza necesarias para enfrentar desafíos en proyectos de datos complejos y contribuir al avance de la ciencia de datos.
 
 
 ## Acceso al Google Colab Notebook
@@ -39,5 +32,12 @@ Limpieza de datos]([enlace-a-tu-notebook-de-google-colab](https://colab.research
 
 
 
+APRENDIZAJES OBTENIDOS:
 
+
+Ha sido una experiencia de aprendizaje intensiva y transformadora. A lo largo de este programa, he desarrollado habilidades esenciales para la recopilación, limpieza y análisis de datos. Aprendí a utilizar herramientas como Python, Pandas y NumPy para manipular datos, así como bibliotecas de aprendizaje.
+
+Además, he adquirido una comprensión profunda de estadísticas y técnicas de visualización de datos, lo que me permite comunicar hallazgos de manera efectiva. El enfoque en proyectos prácticos me permitió aplicar estos conocimientos en situaciones del mundo real y construir un portafolio sólido.
+
+El trabajo en equipo y la colaboración constante con otros estudiantes me han ayudado a mejorar mis habilidades de resolución de problemas y a apreciar la diversidad de enfoques en la ciencia de datos. Este bootcamp ha sido un trampolín para mi tecnica, proporcionándome las herramientas y la confianza necesarias para enfrentar desafíos en proyectos de datos complejos y contribuir al avance de la ciencia de datos.
 
